@@ -39,3 +39,6 @@ If you want to change name of python script to something else you have to change
 After script is done, it will copy ready .exe file into the same location as ```buildExe.bat``` and delete unneeded files created by ```pyinstaller```.
 
 #### Program doesn't hide itself so it will run from where it's currently located.
+
+# Example message sent by program.
+![screenshot](https://lh3.googleusercontent.com/cit4jcUjcP8o6Lcoj-EvZJcG8LyKcQlXywCCEWI3X6rcTPaRhjj-V7nFnLqzvUvolbH8nG-qU_W-BPtpATpDh2ze6kOErYqzLt5nH7VvQp8cUyi1qjd7ROatPr3swRDz4VUjVJucuW3EKhT0B9qa_fQSW_6zih1_2Ku784g_lQNJJwkIgR2bbYsCFSyg2IC7wDg6Jo-lGdMdVHh3vUdEV2jWPEj4k_Zm8IUAp6nC3Eh2qc6YVdtNpDvuu12ZxjpBNOugD5SN-fbjdiehY6BsSSzhpPbIT4St3kCVtLyNBi3y71v-S60jOeLwl1-tqfHfILW3D4afehkae_bR_KNQNc4y4WYoRyOyRstLAsOSuJFQ18ln9juSEgI4CVnulk17FcGqhiQ1nTsYgW7x3W2ggIVDjtHI9NozgDo4XyntApY8-9aBX6GWCgK7PFij03T9FHWo63RR4LhmAfMkh4OPOK1suYbw5YWN9yKJ_--lqyeXMPo1ZhYmBVQaJb11CRUp1SWleXGSL-y0zxtqumeKOU3MvdePHGlJ5k8SbU5cZszMdBXzuk8c7QtR7fOVFu0rHUi8Q9cHTAyIcntX-dFqhl_F-hRA6igTf1Ad8B0Wx0QEFARCymS8owUN6apzRXw6hAPa-NL0q14_Td-7bBWRREGqLcmyH6CsybB0tUL50XE0dZho_R_9CcJcvduaUinx-WxdRwU1k7myQPORSJGebLyL6n33XuOJey0ozK-bVCemI8DioFs8n8ETIz6Mp73YUUfnXI9mVU2h5rR9QebTQ7yz7LdOJOww-IwexMlEhdKt62vcNQzhwg3MLTicq4jJGj8WCp8DjFJe7Vyc_jJESQ-37wLgyjMk_fHpveefAOJGgvqAKC3aia3PJZh9yHNaMIhQ7mfqZe2pmAqK9syWXC2hOb4kEzyLWVIBkB-Z5KZYwcIb=w1574-h270-no?authuser=0)
