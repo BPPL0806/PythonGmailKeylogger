@@ -42,3 +42,6 @@ After script is done, it will copy ready .exe file into the same location as ```
 
 # Example message sent by program.
 ![screenshot](imgs/klggr_example.png)
+
+# VirusTotal analysis
+![VT scan](imgs/vt.png)
