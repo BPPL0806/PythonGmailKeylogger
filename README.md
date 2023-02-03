@@ -19,9 +19,9 @@ By default keylogger sends all logs every 10 minutes. If nothing is captured aft
 
 ### 1. Creating app password for gmail account.
 
-I made PDF in Scribe that explains how to generate app password for gmail that is required to use gmail in 3rd party apps.
+I made instruction how to generate app password that is required to use it in script.
 
-[Link](https://colony-recorder.s3-accelerate.amazonaws.com/files/2023-02-02/1eeafb17-9e3d-46aa-88e4-61f9836d59dc/GoogleWorkflow_PDF_2023-02-02222630.286605.pdf?AWSAccessKeyId=AKIA2JDELI43YPETRQSC&Signature=gP4OoFEM%2Fxv6n9%2FBpz4eMsaHsEY%3D&Expires=1675395093)
+[Link](appPassw.md)
 ###### (It's not that much to do as it might look)
 
 ### 2. Using gmail address and app password in keylogger.
