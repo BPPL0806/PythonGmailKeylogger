@@ -16,7 +16,7 @@ By default keylogger sends all logs every 10 minutes. If nothing is captured aft
 # Instructions <img align="right" src="imgs/manual.png">
 
 ### 1. Using gmail address and app password in keylogger.
-Generated gmail app password, just put it inside code of ```main.pyw``` with gmail address into function in line 63.
+You need generated gmail app password, just put it inside code of ```main.pyw``` with gmail address into function in line 63.
 
 ![Image of function](imgs/func.png)
 
